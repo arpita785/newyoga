@@ -125,7 +125,7 @@ function correct() {
                     
                     correct = false;
                            setTimeout(function(){
-                    window.location.href = 'ccorrect.html';
+                    window.location.href = 'https://arpita785.github.io/newyoga/ccorrect.html';
                  }, 5000);
                     
                 }
