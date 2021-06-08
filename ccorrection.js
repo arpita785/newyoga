@@ -237,7 +237,7 @@ function draw()
     
     pop();
 
-    fill(0, 0, 0);  
+    fill(0, 250, 0);  
     noStroke();
     textStyle(BOLD);
     textSize(20);
@@ -245,21 +245,21 @@ function draw()
     //text(poseLabel, 50, 30);
     text(instr1, 20, 30);
     
-    fill(0, 0, 0);  
+    fill(0, 250, 0);  
     noStroke();
     textStyle(BOLD);
     textSize(20);
     textAlign(LEFT);
     text(instr4, 20, 50);
     
-    fill(0, 0, 0);  
+    fill(0, 250, 0);  
     noStroke();
     textStyle(BOLD);
     textSize(20);
     textAlign(LEFT);
     text(instr5, 20, 70); 
     
-    fill(0, 0, 0);  
+    fill(0, 250, 0);  
     noStroke();
     textStyle(BOLD);
     textSize(20);
@@ -273,7 +273,7 @@ function draw()
         
     }
     
-    fill(0, 0, 0);  
+    fill(0, 250, 0);  
     noStroke();
     textStyle(BOLD);
     textSize(20);
