@@ -207,7 +207,7 @@ function draw()
     
     pop();
 
-    fill(0, 0, 0);  
+    fill(0, 250, 0);  
     noStroke();
     textStyle(BOLD);
     textSize(20);
